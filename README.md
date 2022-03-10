@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **CYBER SECURITY**
 
-- 💬 Ask me about **JAVA ☕️, PYTHON 🐍, PHP**
+- 💬 Ask me about **JAVA ☕️ Data Structures**
 
 - 📫 How to reach me **cshivang2002@gmail.com**
 
