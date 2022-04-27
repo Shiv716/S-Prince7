@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shivang , God of Imagination ❤️‍🔥</h1>
-<h3 align="center">A passionate frontend developer from India , love to design and explore flamboyant things . Working out is my personal hobby.</h3>
+<h3 align="center">A passionate developer from India , love to design and explore flamboyant things . Working out is my personal hobby.</h3>
 
 - 🔭 I’m currently working on **Enigma Machine**
 
