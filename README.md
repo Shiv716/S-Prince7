@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **JAVA Gaming**
 
-- 🌱 I’m currently learning **Swift UI**
+- 🌱 I’m currently learning **Swift UI,REACT**
 
 - 💬 Ask me about **JAVA ☕️ , PYTHON 🐍 and JavaScript**
 
