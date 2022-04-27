@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Shivang , God of Imagination ❤️‍🔥</h1>
 <h3 align="center">A passionate developer from India , love to design and explore flamboyant things . Working out is my personal hobby.</h3>
 
-- 🔭 I’m currently working on **Enigma Machine**
+- 🔭 I’m currently working on **Myself**
 
-- 🌱 I’m currently learning **CYBER SECURITY**
+- 🌱 I’m currently learning **SWIFT UI**
 
-- 💬 Ask me about **PYTHON 🐍 , JAVA ☕️ Data Structures and JavaScript**
+- 💬 Ask me about ** JAVA ☕️ , PYTHON 🐍 and JavaScript**
 
 - 📫 How to reach me **cshivang2002@gmail.com**
 
